@@ -1,0 +1,457 @@
+{
+  "channel_id": "UCiMwbmcCSMORJ-85XWhStBw",
+  "generated_at": "2025-06-19T20:44:36.897504",
+  "lifetime": {
+    "subscribers": 87700,
+    "views": 5428946
+  },
+  "thisWeek": {
+    "subscribers": 1352,
+    "views": 130659,
+    "videos": 0
+  },
+  "lastWeek": {
+    "subscribers": 916,
+    "views": 113600,
+    "videos": 0
+  },
+  "timeseries": [
+    {
+      "date": "2025-04-24",
+      "views": 30347,
+      "subscribers": 443
+    },
+    {
+      "date": "2025-04-25",
+      "views": 31312,
+      "subscribers": 316
+    },
+    {
+      "date": "2025-04-26",
+      "views": 26643,
+      "subscribers": 303
+    },
+    {
+      "date": "2025-04-27",
+      "views": 26240,
+      "subscribers": 470
+    },
+    {
+      "date": "2025-04-28",
+      "views": 35084,
+      "subscribers": 695
+    },
+    {
+      "date": "2025-04-29",
+      "views": 62814,
+      "subscribers": 1453
+    },
+    {
+      "date": "2025-04-30",
+      "views": 84408,
+      "subscribers": 1618
+    },
+    {
+      "date": "2025-05-01",
+      "views": 81158,
+      "subscribers": 1653
+    },
+    {
+      "date": "2025-05-02",
+      "views": 55438,
+      "subscribers": 749
+    },
+    {
+      "date": "2025-05-03",
+      "views": 38824,
+      "subscribers": 492
+    },
+    {
+      "date": "2025-05-04",
+      "views": 34576,
+      "subscribers": 432
+    },
+    {
+      "date": "2025-05-05",
+      "views": 32125,
+      "subscribers": 384
+    },
+    {
+      "date": "2025-05-06",
+      "views": 33837,
+      "subscribers": 489
+    },
+    {
+      "date": "2025-05-07",
+      "views": 41382,
+      "subscribers": 474
+    },
+    {
+      "date": "2025-05-08",
+      "views": 39410,
+      "subscribers": 592
+    },
+    {
+      "date": "2025-05-09",
+      "views": 44356,
+      "subscribers": 560
+    },
+    {
+      "date": "2025-05-10",
+      "views": 32295,
+      "subscribers": 430
+    },
+    {
+      "date": "2025-05-11",
+      "views": 42954,
+      "subscribers": 667
+    },
+    {
+      "date": "2025-05-12",
+      "views": 33495,
+      "subscribers": 471
+    },
+    {
+      "date": "2025-05-13",
+      "views": 39888,
+      "subscribers": 467
+    },
+    {
+      "date": "2025-05-14",
+      "views": 63551,
+      "subscribers": 835
+    },
+    {
+      "date": "2025-05-15",
+      "views": 44592,
+      "subscribers": 464
+    },
+    {
+      "date": "2025-05-16",
+      "views": 35524,
+      "subscribers": 381
+    },
+    {
+      "date": "2025-05-17",
+      "views": 36212,
+      "subscribers": 491
+    },
+    {
+      "date": "2025-05-18",
+      "views": 57119,
+      "subscribers": 696
+    },
+    {
+      "date": "2025-05-19",
+      "views": 32898,
+      "subscribers": 372
+    },
+    {
+      "date": "2025-05-20",
+      "views": 46056,
+      "subscribers": 358
+    },
+    {
+      "date": "2025-05-21",
+      "views": 43253,
+      "subscribers": 549
+    },
+    {
+      "date": "2025-05-22",
+      "views": 35489,
+      "subscribers": 411
+    },
+    {
+      "date": "2025-05-23",
+      "views": 38989,
+      "subscribers": 304
+    },
+    {
+      "date": "2025-05-24",
+      "views": 33836,
+      "subscribers": 262
+    },
+    {
+      "date": "2025-05-25",
+      "views": 45502,
+      "subscribers": 264
+    },
+    {
+      "date": "2025-05-26",
+      "views": 30065,
+      "subscribers": 205
+    },
+    {
+      "date": "2025-05-27",
+      "views": 29662,
+      "subscribers": 324
+    },
+    {
+      "date": "2025-05-28",
+      "views": 23689,
+      "subscribers": 178
+    },
+    {
+      "date": "2025-05-29",
+      "views": 15716,
+      "subscribers": 127
+    },
+    {
+      "date": "2025-05-30",
+      "views": 20285,
+      "subscribers": 101
+    },
+    {
+      "date": "2025-05-31",
+      "views": 22116,
+      "subscribers": 184
+    },
+    {
+      "date": "2025-06-01",
+      "views": 23915,
+      "subscribers": 149
+    },
+    {
+      "date": "2025-06-02",
+      "views": 24660,
+      "subscribers": 246
+    },
+    {
+      "date": "2025-06-03",
+      "views": 42059,
+      "subscribers": 214
+    },
+    {
+      "date": "2025-06-04",
+      "views": 20388,
+      "subscribers": 170
+    },
+    {
+      "date": "2025-06-05",
+      "views": 17125,
+      "subscribers": 121
+    },
+    {
+      "date": "2025-06-06",
+      "views": 15262,
+      "subscribers": 96
+    },
+    {
+      "date": "2025-06-07",
+      "views": 15803,
+      "subscribers": 138
+    },
+    {
+      "date": "2025-06-08",
+      "views": 17405,
+      "subscribers": 89
+    },
+    {
+      "date": "2025-06-09",
+      "views": 13599,
+      "subscribers": 137
+    },
+    {
+      "date": "2025-06-10",
+      "views": 18360,
+      "subscribers": 167
+    },
+    {
+      "date": "2025-06-11",
+      "views": 16046,
+      "subscribers": 168
+    },
+    {
+      "date": "2025-06-12",
+      "views": 17828,
+      "subscribers": 133
+    },
+    {
+      "date": "2025-06-13",
+      "views": 22481,
+      "subscribers": 186
+    },
+    {
+      "date": "2025-06-14",
+      "views": 29907,
+      "subscribers": 390
+    },
+    {
+      "date": "2025-06-15",
+      "views": 35469,
+      "subscribers": 419
+    },
+    {
+      "date": "2025-06-16",
+      "views": 24974,
+      "subscribers": 224
+    }
+  ],
+  "recentVideos": [
+    {
+      "videoId": "4EsmXS1e6FE",
+      "title": "【チームみらい】名古屋のリアルを感じに！ #shorts #チームみらい #安野たかひろ #名古屋グルメ #政治 #政治家",
+      "publishedAt": "2025-06-13T11:30:03Z",
+      "views": 9667,
+      "averageViewDuration": 23.0,
+      "subscribersGained": 2,
+      "subscribersLost": 0,
+      "subscribersNet": 2,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "rDTFiUA_NsA",
+      "title": "【チームみらい】仙台街宣！あなたの街へ伺います #チームみらい #安野たかひろ #政治",
+      "publishedAt": "2025-06-16T11:54:42Z",
+      "views": 3685,
+      "averageViewDuration": 26.0,
+      "subscribersGained": 0,
+      "subscribersLost": 0,
+      "subscribersNet": 0,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "K4qQrlUNotc",
+      "title": "【チームみらいLIVE】街頭演説＠大阪梅田",
+      "publishedAt": "2025-06-15T10:25:42Z",
+      "views": 5845,
+      "averageViewDuration": 331.0,
+      "subscribersGained": 25,
+      "subscribersLost": 1,
+      "subscribersNet": 24,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "J_F3Pgaq9RY",
+      "title": "【米価格高騰&IT】コメ騒動を起こしている理由は？　作況指数は平年並みなのに価格二倍の謎。テクノロジーを使った対策とは？",
+      "publishedAt": "2025-06-14T11:00:33Z",
+      "views": 30981,
+      "averageViewDuration": 249.0,
+      "subscribersGained": 446,
+      "subscribersLost": 8,
+      "subscribersNet": 438,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "8b7Wcs6ufhA",
+      "title": "【週刊チームみらいLIVE】大阪より生配信！　チームみらい公式キャラクター決定！　新しい政策の発表",
+      "publishedAt": "2025-06-15T14:22:18Z",
+      "views": 6049,
+      "averageViewDuration": 542.0,
+      "subscribersGained": 18,
+      "subscribersLost": 10,
+      "subscribersNet": 8,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "byboktGsllA",
+      "title": "【選挙戦略】マシュマロ質問、ぜんぶ答えます／後編【テック外交】",
+      "publishedAt": "2025-06-06T11:01:14Z",
+      "views": 7756,
+      "averageViewDuration": 352.0,
+      "subscribersGained": 15,
+      "subscribersLost": 7,
+      "subscribersNet": 8,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "z4r3UrVcTeY",
+      "title": "【SNS上の偽情報を検知】AIファクトチェッカーをリリースしました【チームみらい】",
+      "publishedAt": "2025-06-07T11:01:41Z",
+      "views": 9402,
+      "averageViewDuration": 206.0,
+      "subscribersGained": 54,
+      "subscribersLost": 3,
+      "subscribersNet": 51,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "zE3GxHdIl-4",
+      "title": "【記者会見】「チームみらい」神奈川県選挙区 参議院選挙 公認候補者予定者発表！",
+      "publishedAt": "2025-06-16T11:01:37Z",
+      "views": 3153,
+      "averageViewDuration": 143.0,
+      "subscribersGained": 4,
+      "subscribersLost": 4,
+      "subscribersNet": 0,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "866aKUyCIzU",
+      "title": "【チームみらいLIVE】みねしま侑也と河合みちおと教育/経済政策について喋る配信",
+      "publishedAt": "2025-06-12T14:25:57Z",
+      "views": 7977,
+      "averageViewDuration": 550.0,
+      "subscribersGained": 19,
+      "subscribersLost": 7,
+      "subscribersNet": 12,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "VJXGsB2fiNw",
+      "title": "【子育ての壁】面倒な手続き、どうしたらいい？【チームみらい政策】",
+      "publishedAt": "2025-06-09T11:07:29Z",
+      "views": 3378,
+      "averageViewDuration": 257.0,
+      "subscribersGained": 7,
+      "subscribersLost": 10,
+      "subscribersNet": -3,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "F8X5cQ_cNuE",
+      "title": "【チームみらい】３つの「終わらせる」【公認候補予定者・街頭演説】",
+      "publishedAt": "2025-06-11T11:00:25Z",
+      "views": 6947,
+      "averageViewDuration": 298.0,
+      "subscribersGained": 28,
+      "subscribersLost": 7,
+      "subscribersNet": 21,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "sNOJTjbozUQ",
+      "title": "【政策解説】実は世界で一番画一的だった日本の教育 / 子どもの志向、特性に合わせたやり方を提案 / オランダのデータの集め方が実は賢い件【チームみらい】",
+      "publishedAt": "2025-06-10T11:01:36Z",
+      "views": 13645,
+      "averageViewDuration": 239.0,
+      "subscribersGained": 87,
+      "subscribersLost": 7,
+      "subscribersNet": 80,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "7whJUFCc0_o",
+      "title": "【週刊チームみらいLIVE】生配信！",
+      "publishedAt": "2025-06-08T14:20:24Z",
+      "views": 7650,
+      "averageViewDuration": 451.0,
+      "subscribersGained": 16,
+      "subscribersLost": 9,
+      "subscribersNet": 7,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "kFX7DgijJ2g",
+      "title": "オードリー・タン氏に学べ！　台湾のデジタル民主主義。　どこまでできてる？　実際どうなの？",
+      "publishedAt": "2025-06-13T11:01:25Z",
+      "views": 8456,
+      "averageViewDuration": 292.0,
+      "subscribersGained": 60,
+      "subscribersLost": 4,
+      "subscribersNet": 56,
+      "averageViewPercentage": 0
+    },
+    {
+      "videoId": "lxhU56WrZVg",
+      "title": "【チームみらい】千葉県選挙区 参議院選挙 公認候補予定者発表【記者会見】",
+      "publishedAt": "2025-06-05T11:01:30Z",
+      "views": 4807,
+      "averageViewDuration": 182.0,
+      "subscribersGained": 5,
+      "subscribersLost": 2,
+      "subscribersNet": 3,
+      "averageViewPercentage": 0
+    }
+  ]
+}
